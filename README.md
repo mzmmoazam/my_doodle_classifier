@@ -3,7 +3,6 @@
 Classify hand drawn objects in canvas using convolution neural networks
 
 ## Getting Started
----
 
 I have used doodle dataset; opensourced by google, you can get it from [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap)
 
