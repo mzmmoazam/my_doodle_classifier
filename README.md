@@ -7,7 +7,7 @@ Classify hand drawn objects in canvas using convolution neural networks
 I have used doodle dataset; opensourced by google, you can get it from [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap)
 
 
-* To train the model, I used google colab; code -> [train.pynb](../master/train.pynb)
+* To train the model, I used google colab; code -> [train.pynb](../master/train.ipynb)
 
 * To run the project 
 
